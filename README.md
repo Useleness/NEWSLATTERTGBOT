@@ -1,4 +1,6 @@
 # How tf should I use this?
+- Download latest Release
+- Export folder from archieve
 - Start main.py
 > Yep, thats all😅
 
