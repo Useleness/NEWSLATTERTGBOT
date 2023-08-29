@@ -2,18 +2,8 @@
 - Start main.py
 > Yep, thats all😅
 
-## How could I create my database.db?
-- Start main.py
-- After initialization press: CTRL+C
-- Open db.db with [SQLiteStudio](https://sqlitestudio.pl/)
-- Create table "users"
-- Add column "id" 
-  - INTEGER, PRIMARY KEY, AUTOINCREMENT
-- Add column "user_id" 
-  - INTEGER, UNIQUE, NOT NULL
-- Add column "active" 
-  - INTEGER, DEFAULT (1)
-- Save it
+## How could I check db.db?
+- Open it with [SQLiteStudio](https://sqlitestudio.pl/) and be careful...
 
 ## Why bot is not working?
 > Probably you dont have telegram python module, try to use this in your cmd:
