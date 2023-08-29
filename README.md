@@ -16,4 +16,4 @@
 ```
 py -m pip install aiogram -U
 ```
-> If you dont have [Python](https://www.python.org/downloads/) installed on ur PC, then install it
+> If you dont have [Python](https://www.python.org/downloads/) installed on ur PC, then install it and try again
