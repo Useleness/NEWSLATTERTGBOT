@@ -10,4 +10,10 @@
 - Add column "active" 
   - INTEGER, DEFAULT (1)
 - Save it
-> Good luck!
+
+## Why bot is not working?
+> Probably you dont have telegram python module
+> Try to use this in ur cmd:
+```
+py -m pip install aiogram -U
+```
