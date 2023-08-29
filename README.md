@@ -10,3 +10,4 @@
 - Add column "active" 
   - INTEGER, DEFAULT (1)
 - Save it
+> Good luck!
