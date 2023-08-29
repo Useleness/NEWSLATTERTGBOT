@@ -1,5 +1,5 @@
 # How tf should I use this?
-- Download [latest Release](releases)
+- Download [latest Release](https://github.com/Useleness/NEWSLATTERTGBOT/releases)
 - Export folder from archieve
 - Start main.py
 > Yep, thats all😅
