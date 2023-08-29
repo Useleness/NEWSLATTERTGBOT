@@ -12,8 +12,7 @@
 - Save it
 
 ## Why bot is not working?
-> Probably you dont have telegram python module
-> Try to use this in ur cmd:
+> Probably you dont have telegram python module, try to use this in your cmd:
 ```
 py -m pip install aiogram -U
 ```
