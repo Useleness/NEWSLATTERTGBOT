@@ -7,7 +7,7 @@ logging.basicConfig(level=logging.INFO)
 
 bot = Bot(botik)
 dp = Dispatcher(bot)
-db = DATABASE('datab.db')
+db = DATABASE('db.db')
 
 @dp.message_handler(commands=['start'])
 async def start(message: types.Message):
