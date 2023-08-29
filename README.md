@@ -1,4 +1,8 @@
-# How could I create my database.db?
+# How tf should I use this?
+- Start main.py
+> Yep, thats all😅
+
+## How could I create my database.db?
 - Start main.py
 - After initialization press: CTRL+C
 - Open db.db with [SQLiteStudio](https://sqlitestudio.pl/)
