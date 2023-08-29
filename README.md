@@ -1,5 +1,5 @@
 # How tf should I use this?
-- Download latest Release
+- Download [latest Release](releases/latest)
 - Export folder from archieve
 - Start main.py
 > Yep, thats all😅
